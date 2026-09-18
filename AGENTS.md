@@ -13,3 +13,4 @@ These instructions apply to the entire `re4_mod_menu` project.
 - Do not modify the build toolchain (`toolchain-mingw32.cmake`) unless absolutely necessary.
 - When adding new features, add a new tab in `src/gui.cpp` or integrate it logically into an existing tab.
 - Stub out memory reading/writing (like in `src/egg_spawner.cpp`) with clear comments unless specific offsets are provided.
+- You must check for available tool, "Python, Rust, Golang, C++"
