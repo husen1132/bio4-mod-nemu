@@ -27,3 +27,5 @@ cd build
 cmake -DCMAKE_TOOLCHAIN_FILE=../toolchain-mingw32.cmake ..
 make
 ```
+
+## If you want to participation of this project, you can check for available tool first, Python, C++, Rust and Golang
